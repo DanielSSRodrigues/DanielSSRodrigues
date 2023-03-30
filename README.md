@@ -13,3 +13,6 @@ Seja bem vindo!
 
 Sou formando em SI pela Faculdade Pitágoras (Conclusão 2016), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), minha última experiência foi atuando como Analista de testes Pleno. Alcançar esse objetivo foi uma grande conquista, pois era algo que eu sonhava desde o primeiro semestre da faculdade. 
 Busco a cada dia aperfeiçoamento das competências pessoais e técnicas exigidas pela função, com o objetivo de garantir uma melhor entrega para o cliente final e a organização.
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
