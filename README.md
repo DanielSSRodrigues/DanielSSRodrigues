@@ -17,7 +17,7 @@ Busco a cada dia aperfeiçoamento das competências pessoais e técnicas exigida
 ```js
 aboutMe.js
 
-const danielRodrigues = {
+const DanielRodrigues = {
     pronouns: 'he',
     code: ['Javascript','C#'],
     database: ['MySql', 'Postgress', 'Microsoft SQL Server'],
@@ -27,7 +27,7 @@ const danielRodrigues = {
         frontEndTest: {
             web: ['Selenium Webdriver', 'Robot Framework', 'Cypress']
         },
-        backEnd: {
+        backEnd:{
             api: ['Postman'],
             performance: ['k6', 'Jmeter']
         },
