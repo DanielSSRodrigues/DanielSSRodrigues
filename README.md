@@ -41,6 +41,6 @@ const DanielRodrigues = {
         agileMethodologies: ['Kanban', 'Scrum']
     }
 };
-```js
+
 
 
