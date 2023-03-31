@@ -33,8 +33,6 @@ const DanielRodrigues = {
         },
         os: ['windows', 'linux'],
         clound: ['Aws', 'Azure'],
-	virtualization: ['Docker'],
-        locatorStrategies:['xpath', 'css selector', 'id', 'ios class chain', 'uiselector', 'ios predicate string'],
         ides: ['microsoft visual studio', 'microsoft visual studio code'],
         cicd: ['jenkins', 'azure devops'],
         managementTools: ['azure', 'jira'],
