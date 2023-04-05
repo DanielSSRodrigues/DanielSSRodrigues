@@ -12,8 +12,7 @@ Seja bem vindo!
 </div><br/>
 
 <div style="display: inline_block">  <br/>
-<img align="center" alt="html5" src="
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div><br/>     
 
 Sou formando em SI pela Faculdade Pitágoras (Conclusão 2016), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), minha última experiência foi atuando como Analista de testes Pleno. Alcançar esse objetivo foi uma grande conquista, pois era algo que eu sonhava desde o primeiro semestre da faculdade. 
