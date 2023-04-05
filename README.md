@@ -11,9 +11,7 @@ Seja bem vindo!
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
 
-<div style="display: inline_block">  <br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div><br/>     
+[![Daniel Rodrigues](https://github-readme-stats.vercel.app/api/wakatime?username=DanielSSRodriguesd)](https://github.com/anuraghazra/github-readme-stats)  
 
 Sou formando em SI pela Faculdade Pitágoras (Conclusão 2016), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), minha última experiência foi atuando como Analista de testes Pleno. Alcançar esse objetivo foi uma grande conquista, pois era algo que eu sonhava desde o primeiro semestre da faculdade. 
 Busco a cada dia aperfeiçoamento das competências pessoais e técnicas exigidas pela função, com o objetivo de garantir uma melhor entrega para o cliente final e a organização.
