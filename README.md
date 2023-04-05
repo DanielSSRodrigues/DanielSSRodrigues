@@ -23,7 +23,7 @@ const DanielRodrigues = {
     outhers: ['git', 'test case','bdd', 'gherkin'],
     technologies: {
         frontEndTest: {
-            web: ['Selenium Webdriver', 'Robot Framework', 'Cypress']
+            web: ['Selenium Webdriver', 'Robot Framework']
         },
         backEnd:{
             api: ['Postman'],
