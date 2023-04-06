@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Daniel Rodrigues😎👋
 Seja bem vindo!
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DanielSSRodrigues=gotham)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodrigues-b63218162/)
 
 Sou formando em SI pela Faculdade Pitágoras (Conclusão 2016), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), minha última experiência foi atuando como Analista de testes Pleno. Alcançar esse objetivo foi uma grande conquista, pois era algo que eu sonhava desde o primeiro semestre da faculdade. 
@@ -33,6 +31,9 @@ const DanielRodrigues = {
         agileMethodologies: ['Kanban', 'Scrum']
     }
 };
+```
+![Daniel Rdorigues GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSSRodrigues&show_icons=true&theme=radical)
+
 
 
 
