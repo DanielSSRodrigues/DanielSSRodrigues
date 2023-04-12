@@ -32,7 +32,10 @@ const DanielRodrigues = {
     }
 };
 ```
+[![Daniel RdoriguesTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSSRodrigues&layout=compact)](https://github.com/DanielSSRodrigues/github-readme-stats)
 ![Daniel Rdorigues GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSSRodrigues&show_icons=true&theme=radical)
+
+
 
 
 
