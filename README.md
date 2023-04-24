@@ -12,20 +12,19 @@ aboutMe.js
 const DanielRodrigues = {
     pronouns: 'he',
     code: ['Javascript','C#'],
-    database: ['MySql', 'Postgress', 'Microsoft SQL Server'],
-    askMeAbout: ['tech', 'study', 'coffee', 'play bass', 'aviation'],
+    database: ['Postgress', 'Microsoft SQL Server'],
+    askMeAbout: ['tech', 'study', 'coffee', 'play bass'],
     outhers: ['git', 'test case','bdd', 'gherkin'],
     technologies: {
         frontEndTest: {
-            web: ['Selenium Webdriver', 'Robot Framework']
+            web: ['Selenium Webdriver', 'Cypress', 'Robot Framework']
         },
         backEnd:{
-            api: ['Postman'],
+            api: ['Postman', 'RestAssured'],
             performance: ['k6', 'Jmeter']
         },
-        os: ['windows', 'linux'],
-        clound: ['Aws', 'Azure'],
-        ides: ['microsoft visual studio', 'microsoft visual studio code'],
+        os: ['windows'],
+        ides: ['microsoft visual studio', 'microsoft visual studio code', 'eclipse'],
         cicd: ['jenkins', 'azure devops'],
         managementTools: ['azure', 'jira'],
         agileMethodologies: ['Kanban', 'Scrum']
