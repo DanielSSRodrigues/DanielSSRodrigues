@@ -21,7 +21,6 @@ const DanielRodrigues = {
         },
         backEnd:{
             api: ['Postman', 'RestAssured'],
-            performance: ['k6', 'Jmeter']
         },
         os: ['windows'],
         ides: ['microsoft visual studio', 'microsoft visual studio code', 'eclipse'],
