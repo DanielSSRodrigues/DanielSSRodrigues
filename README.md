@@ -6,6 +6,9 @@ Seja bem vindo!
 Sou formando em SI pela Faculdade Pitágoras (Conclusão 2016), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), 
 Busco a cada dia aperfeiçoamento das competências pessoais e técnicas exigidas pela função, com o objetivo de garantir uma melhor entrega para o cliente final e a organização.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSSRodrigues&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSSRodrigues&hide_progress=true)](https://github.com/DanielSSRodrigues/github-readme-stats)
+
 ```js
 aboutMe.js
 
