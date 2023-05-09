@@ -3,7 +3,7 @@ Seja bem vindo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-s-s-rodrigues/)
 
-Sou formando em SI pela Faculdade Pitágoras (Conclusão 2016), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), 
+Sou formando em SI pela Faculdade Pitágoras (Conclusão 2017), Pós-Graduado em MBA em Gestão Estratégica de Projetos pelo Centro Universitário UNA (Conclusão 2019), 
 Busco a cada dia aperfeiçoamento das competências pessoais e técnicas exigidas pela função, com o objetivo de garantir uma melhor entrega para o cliente final e a organização.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSSRodrigues&show_icons=true&theme=radical)
