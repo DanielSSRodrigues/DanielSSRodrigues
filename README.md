@@ -14,7 +14,7 @@ aboutMe.js
 
 const DanielRodrigues = {
     pronouns: 'he',
-    code: ['Javascript','C#', 'Phyton'],
+    code: ['Javascript','C#'],
     database: ['Postgress', 'Microsoft SQL Server'],
     askMeAbout: ['tech', 'study', 'coffee', 'play bass'],
     outhers: ['git', 'test case','bdd', 'gherkin'],
